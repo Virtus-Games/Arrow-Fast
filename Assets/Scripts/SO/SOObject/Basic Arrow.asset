@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19451276d8e6c1b4697ae934140db81b, type: 3}
+  m_Name: Basic Arrow
+  m_EditorClassIdentifier: 
+  arrowPrefab: {fileID: 1190194290205985115, guid: 7751fcb256c95d54ba3930656a4b39b2, type: 3}
+  throwForce: 8
+  maxThrowForce: 40
+  disableDuration: 2
+  maxDisableDuration: 8
